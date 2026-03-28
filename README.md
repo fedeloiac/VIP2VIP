@@ -46,7 +46,7 @@ Your Praat TextGrids must include the following tiers:
 
 ## Citation
 If you use this pipeline in your research, please cite the original paper:
-> Lo Iacono, F., & Romano, A. (2026). *A Multi-Dimensional Pipeline for Holistic Prosodic Visualization: Integrating $f_0$, Intensity, and Syllabic Rate using VIP2VIP. Speech Prosody 2026, Philadelphia, University of Pennsylvania*.
+> Lo Iacono, F., & Romano, A. (2026). *A Multi-Dimensional Pipeline for Holistic Prosodic Visualization: Integrating f0, Intensity, and Syllabic Rate using VIP2VIP. Speech Prosody 2026, Philadelphia, University of Pennsylvania*.
 
 ---
 **License:** Open source. For issues or contributions, please visit the [official repository](https://github.com/fedeloiac/vip-pipeline).
